@@ -160,10 +160,6 @@ function updateMovesAndStars() {
 			star[1].style.color = "#fff";
 			rates = 1;
 	}
-	if(moves >60) {
-			star[0].style.color = "#fff";
-			rates = 0;
-	}
 }
 
 // reload page function
