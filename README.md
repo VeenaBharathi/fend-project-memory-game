@@ -7,8 +7,26 @@
 
 ## Instructions
 
-1.
-2. The player has to find matching card sets, one pair after other.
+Project Title
+This is a memory Game project. There will be 16 cards with 8 symbols on them. Player has to identify 8 pair of cards in given 60 sec. For every wrong match, the cards will be hidden. For every correct pair match, cards will be locked. The total score and time taken to play the game will be shown when player wins the game. Player can choose to refresh the game whenever needed.
+
+Getting Started
+The code can be downloaded from following git hub location-
+https://github.com/VeenaBharathi/fend-project-memory-game
+
+Prerequisites
+Git Bash
+Browser
+Sublime Test2
+
+Install steps
+git clone <above repository> into any local folder.
+The game will be ready up and running
+Right click on index.html and open with chrome and you are ready to play the game!
+
+Instructions
+1. The player has 60 sec to finish the game.
+2. He has to find matching card sets, one pair after other.
 3. The first card that he flips will be the reference card and the second card will be checked against the first.
 4. If both match, they are locked. Else, the symbols on them will be hidden.
 5. The no of moves determine the star rating and the total score where 10 points for each move is counted.
@@ -18,65 +36,19 @@
 8. A modal box congratulating the user with score, moves and stars is shown once player wins the game in given time. He can chose to play over again.
 9. Refresh button is provided on the page if user wants to reload the game at any point.
 
+Built With
+Sublime Text Editor
+
 ## Contributing
 
-Key Contributer - Veena
-Reviewers - Udcity team.
-
-Project Title
-This is a memory Game project. It gives every player 60sec to complete the game.
-
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-Prerequisites
-What things you need to install the software and how to install them
-
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-Running the tests
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
-Explain what these tests test and why
-
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
-
-Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
 Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+We use GitHub for versioning.
 
 Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
+Richard - Initial work
+Veena - Modified Project
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
 

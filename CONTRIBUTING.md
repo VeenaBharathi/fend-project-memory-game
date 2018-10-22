@@ -1,3 +1,4 @@
 # How to contribute
 
-The files in this repository are used as the starting point for all students. Because we want students to write the majority of the code themselves, pull requests (most likely) will _not_ be merged into the project.
+The files in this repository are used to start the memory game project in Udacity Fend nanodegree.
+The game is already in place as per the project guidelines, pull requests (most likely) will _not_ be merged into the project.
