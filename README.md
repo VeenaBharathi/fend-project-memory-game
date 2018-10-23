@@ -40,7 +40,7 @@ Instructions
 Built With
 Sublime Text Editor
 
-##Dependencies
+## Dependencies
 font awesome
 google fonts
 
