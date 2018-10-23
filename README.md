@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [Dependencies](#Dependencies)
 * [Contributing](#contributing)
 
 ## Instructions
@@ -39,6 +40,10 @@ Instructions
 Built With
 Sublime Text Editor
 
+##Dependencies
+font awesome
+google fonts
+
 ## Contributing
 
 Contributing
@@ -50,5 +55,4 @@ We use GitHub for versioning.
 Authors
 Richard - Initial work
 Veena - Modified Project
-
 
